@@ -1,0 +1,11 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"jugador","order":6,"path":"objects/jugador/jugador.yy",},
+    {"name":"npcp","order":9,"path":"objects/npcp/npcp.yy",},
+    {"name":"mapa1","order":4,"path":"rooms/mapa1/mapa1.yy",},
+    {"name":"mapareal2","order":5,"path":"sprites/mapareal2/mapareal2.yy",},
+    {"name":"Sprite2","order":7,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"Sprite3","order":8,"path":"sprites/Sprite3/Sprite3.yy",},
+  ],
+}
